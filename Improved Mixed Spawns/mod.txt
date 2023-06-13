@@ -1,0 +1,14 @@
+{
+	"name" : "Group-based Mixed Spawns",
+	"description" : "Adds mixed spawns"
+	"author" : "Mango and Tori",
+	"contact" : "the Payday modding discord server",
+	"version" : "1",
+	"priority" : 420,
+	"hooks" : [
+		{ 	"hook_id" : "lib/tweak_data/groupaitweakdata",
+			"script_path" : "groupaitweakdata.lua"
+		}
+	]
+}
+
