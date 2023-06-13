@@ -1,7 +1,7 @@
 {
 	"name" : "Group-based Mixed Spawns",
 	"description" : "Adds mixed spawns"
-	"author" : "Mango and Tori",
+	"author" : "Mango",
 	"contact" : "the Payday modding discord server",
 	"version" : "1",
 	"priority" : 420,
