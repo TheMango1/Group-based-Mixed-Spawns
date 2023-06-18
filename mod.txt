@@ -1,0 +1,13 @@
+{
+
+	"name" : "Group-Based Mixed Spawns",
+	"description" : "Adds mixed spawns",
+	"author" : "Mango (idea)\n    moon (implementation)",
+	"contact" : "Mango: the Payday modding discord server\n    moon: https://modworkshop.net/user/55749",
+	"version" : "1",
+	"color" : "255 255 255",
+	"hooks" : [
+		{ "hook_id" : "lib/tweak_data/groupaitweakdata", "script_path" : "mod.lua" }
+	]
+
+}

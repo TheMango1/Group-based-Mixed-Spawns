@@ -1,0 +1,14 @@
+{
+
+	"gbms_menu_main" : "Group-Based Mixed Spawns",
+
+	"gbms_menu_is_enabled" : "Enabled",
+	"gbms_menu_is_enabled_desc" : "",
+
+	"gbms_menu_spawn_group_set" : "Spawn Group Set",
+	"gbms_menu_spawn_group_set_desc" : "Choose between Housewarming and old styled groups.\n\"Housewarming (fixed)\" adds normally missing shotgun units.",
+	"gbms_spawn_group_set_housewarming_fixed" : "Housewarming (fixed)",
+	"gbms_spawn_group_set_housewarming" : "Housewarming",
+	"gbms_spawn_group_set_old" : "Old",
+
+}
