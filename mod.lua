@@ -55,7 +55,7 @@ if not GBMS then
 			return { 0, n * 0.5, n }
 		end
 		local function weight_dec(n)
-			return { n, n * 0.5, n }
+			return { n, n * 0.5, 0 }
 		end
 
 		if difficulty_index <= 2 then
